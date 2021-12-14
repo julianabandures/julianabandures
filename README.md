@@ -12,7 +12,7 @@
   <img align="center" alt="Ju-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ju-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ju-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ju-pic" height="150" style="border-radius:50px;" src="<iframe src="https://giphy.com/embed/isaUhveztgv2o" width="480" height="353" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pokemon-i-dont-give-a-fuuuuuck-fuq-isaUhveztgv2o">via GIPHY</a></p>">
+  <img align="right" alt="Ju-pic" height="150" style="border-radius:50px;" src="https://giphy.com/embed/isaUhveztgv2o">
 </div>
   
   ##
